@@ -27,7 +27,7 @@ Part 3: Network.
 
 The xhr-Request, also called XMLHttpRequest, is used to request data from a web server. It can do several things, like updating a page without reloading, request and receive data after the webpage is loaded, and send data to a server. 
 
-This files were the first ones to be loaded.
+This files are loaded whenever the webpage requests for information.
 
 
 Part 4: Security.
